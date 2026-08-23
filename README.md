@@ -9,6 +9,8 @@ Generador probabilístico de combinaciones para **Melate Retro** con interfaz li
 * **Dispersión por Docenas:** Máximo 3 números por tercio.
 
 ## Despliegue en GitHub Pages
+Página web: https://mretro6.arturylab.dev/
+
 1. Sube `index.html`, `style.css` y `script.js` a la raíz de tu repositorio en GitHub.
 2. En GitHub ve a **Settings** > **Pages**.
 3. Selecciona la rama `main` en la raíz `/` y haz clic en **Save**.# mretro6
